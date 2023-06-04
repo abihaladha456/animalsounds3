@@ -1,0 +1,33 @@
+body{
+    font-family: cursive;
+    background-color:lightgray ;
+}
+.header_div{
+    background-color: white;
+    color: black;
+}
+.header_div p{
+    font-family: sans-serif;
+    color: rgb(246, 3, 124);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.Main_div button{
+    font-family: sans-serif;
+    margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.copyrightfooter{
+    position: fixed;
+    color: rgb(149, 140, 221);
+  background-color: white;
+  bottom: 0;
+  width: 100%;
+  font-size: 18px;
+  line-height:3 ;
+  text-align: center;
+  text-shadow: 5px 5px 5px gray ;
+}
